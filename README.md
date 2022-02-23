@@ -1,2 +1,1 @@
-# mern-tutorial
-https://mernappjulia.herokuapp.com/
+# https://mernappjulia.herokuapp.com/
